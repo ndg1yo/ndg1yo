@@ -71,6 +71,20 @@
   Link: </component---plugins-gatsby-theme-try-ghost-src-templates-page-js-461c82c9c50d0a3964c3.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/release/page-data.json>; rel=preload; as=fetch; crossorigin
+/how-to-improve-self-esteem/
+  Link: </webpack-runtime-9c22a590bd7e747fee24.js>; rel=preload; as=script
+  Link: </framework-a6a1c7cccd751a5f33d4.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-b18bf3086ecf4d482258.js>; rel=preload; as=script
+  Link: </app-45a11e6b22c61bfddf2c.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </d0447323-605698c42434bfbcd487.js>; rel=preload; as=script
+  Link: </1bfc9850-ab99a49a450caa986967.js>; rel=preload; as=script
+  Link: </29107295-31903c7cd144f52709bf.js>; rel=preload; as=script
+  Link: </commons-b4bf9a1334558bf80296.js>; rel=preload; as=script
+  Link: </9b43f71d2fc64b8d2f185d37f032d541d3a7b87b-3f8cb179ea1ccd2cf3b8.js>; rel=preload; as=script
+  Link: </component---plugins-gatsby-theme-try-ghost-src-templates-post-js-74eed7c006aafe0bbe51.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/how-to-improve-self-esteem/page-data.json>; rel=preload; as=fetch; crossorigin
 /child-with-low-self-esteem/
   Link: </webpack-runtime-9c22a590bd7e747fee24.js>; rel=preload; as=script
   Link: </framework-a6a1c7cccd751a5f33d4.js>; rel=preload; as=script
@@ -253,6 +267,20 @@
   Link: </component---plugins-gatsby-theme-try-ghost-src-templates-tag-js-d66e738a22274acdc465.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/tag/post/page/2/page-data.json>; rel=preload; as=fetch; crossorigin
+/tag/post/page/3/
+  Link: </webpack-runtime-9c22a590bd7e747fee24.js>; rel=preload; as=script
+  Link: </framework-a6a1c7cccd751a5f33d4.js>; rel=preload; as=script
+  Link: </dc6a8720040df98778fe970bf6c000a41750d3ae-b18bf3086ecf4d482258.js>; rel=preload; as=script
+  Link: </app-45a11e6b22c61bfddf2c.js>; rel=preload; as=script
+  Link: </styles-08bc34de4ea872a98d93.js>; rel=preload; as=script
+  Link: </d0447323-605698c42434bfbcd487.js>; rel=preload; as=script
+  Link: </1bfc9850-ab99a49a450caa986967.js>; rel=preload; as=script
+  Link: </29107295-31903c7cd144f52709bf.js>; rel=preload; as=script
+  Link: </commons-b4bf9a1334558bf80296.js>; rel=preload; as=script
+  Link: </9b43f71d2fc64b8d2f185d37f032d541d3a7b87b-3f8cb179ea1ccd2cf3b8.js>; rel=preload; as=script
+  Link: </component---plugins-gatsby-theme-try-ghost-src-templates-tag-js-d66e738a22274acdc465.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/tag/post/page/3/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/tips/
   Link: </webpack-runtime-9c22a590bd7e747fee24.js>; rel=preload; as=script
   Link: </framework-a6a1c7cccd751a5f33d4.js>; rel=preload; as=script
