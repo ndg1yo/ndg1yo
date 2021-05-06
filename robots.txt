@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-sitemap: https://www.nadaegyun.com/sitemap.xml
-#DaumWebMasterTool:918022ed28ccc78784da0b08c54f8f43ef24001e7e7756a6b42d3398fff41190:dNKxpSVvUsTWNISVXVSrKA==
